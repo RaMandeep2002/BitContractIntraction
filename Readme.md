@@ -5,11 +5,6 @@
 
 Firstly You clone the repository in your machine.
 
-
-
-
-
-
 ```bash
     git clone https://github.com/RaMandeep2002/BitContractIntraction.git
     cd BitContractIntraction
